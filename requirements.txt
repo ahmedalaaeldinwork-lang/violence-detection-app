@@ -1,0 +1,7 @@
+torch
+torchvision
+timm
+opencv-python
+numpy
+gdown
+gradio==3.50.2
